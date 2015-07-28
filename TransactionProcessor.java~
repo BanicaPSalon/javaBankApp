@@ -27,8 +27,6 @@ import java.awt.event.*;
  private RandomAccessFile file;
  private RandomAccessAccountRecord record;
 
-// Test ni !
-
  // set up GUI
  public TransactionProcessor()
  {
